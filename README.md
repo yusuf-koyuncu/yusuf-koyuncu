@@ -1,35 +1,33 @@
-<h1 align="center">Hi, I'm Yusuf Koyuncu 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yusuf%20Koyuncu&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header">
 
 <p align="center">
-  💻 Computer Engineering student &nbsp;•&nbsp; 🚀 Full-Stack Developer &nbsp;•&nbsp; 📍 Bandırma, Türkiye
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&height=45&lines=Building+layered+REST+APIs+with+ASP.NET+Core;Designing+relational+databases+with+EF+Core;Crafting+web+clients+with+Angular+and+React;Looking+for+a+volunteer+internship" alt="Typing animation">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusufkoyuncueng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:yusufkync0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Location-Bandırma%2C%20Türkiye-203a43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Open%20to-Volunteer%20Internship-0891b2?style=for-the-badge" alt="Open to internship">
 </p>
 
 ---
 
 ## 🎯 About me
 
-- 🎓 Studying Computer Engineering at **Bandırma Onyedi Eylül University** (English-medium, expected 2027)
+- 🎓 Computer Engineering at **Bandırma Onyedi Eylül University** (English-medium, expected 2027)
 - 🏢 Completed a **40-working-day software internship** at İthinka İnovasyon Yazılım
 - 🌱 Coordinator of **BTT**, a student tech community of 1,000+ members
+- 🏕 Attended the **Kamp+ Bilişim Kampı** by Turkcell and the Ministry of Youth and Sports
 - 🔎 Looking for a **long-term volunteer internship** in software development
 
 ## 🛠 Tech stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,py,fastapi,tailwind,git&perline=10" alt="Tech stack icons">
+</p>
 
 ## ⭐ Featured project: [EventTicketing](https://github.com/yusuf-koyuncu/EventTicketing)
 
@@ -47,13 +45,19 @@ A full-stack **event & ticket sales platform** built during my internship: organ
 
 ## 🚀 More projects
 
-| Project | What it does |
-|---|---|
-| 📄 [**CV Analyzer**](https://github.com/yusuf-koyuncu/CV_Analyzer) | Extracts skills from PDF CVs and scores them against a job description (FastAPI + React) |
-| 🍽 [**Restaurant Dashboard**](https://github.com/yusuf-koyuncu/Restoran-Dashboard) | Order tracking and inventory dashboard. [Live demo](https://restoran-final-demo.vercel.app) |
-| 💰 [**FinTrack**](https://github.com/yusuf-koyuncu/FinTrack) | Command-line finance tracker with a summary report (Python) |
-| 🏢 [**HR Database**](https://github.com/yusuf-koyuncu/Company-HR-Management-System) | Oracle SQL schema with a view, a trigger and a stored procedure |
+<p>
+  <a href="https://github.com/yusuf-koyuncu/CV_Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuf-koyuncu&repo=CV_Analyzer&bg_color=0d1117&title_color=5EEAD4&text_color=c9d1d9&icon_color=5EEAD4&border_color=30363d" alt="CV Analyzer"></a>
+  <a href="https://github.com/yusuf-koyuncu/Restoran-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuf-koyuncu&repo=Restoran-Dashboard&bg_color=0d1117&title_color=5EEAD4&text_color=c9d1d9&icon_color=5EEAD4&border_color=30363d" alt="Restaurant Dashboard"></a>
+</p>
+<p>
+  <a href="https://github.com/yusuf-koyuncu/FinTrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuf-koyuncu&repo=FinTrack&bg_color=0d1117&title_color=5EEAD4&text_color=c9d1d9&icon_color=5EEAD4&border_color=30363d" alt="FinTrack"></a>
+  <a href="https://github.com/yusuf-koyuncu/Company-HR-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuf-koyuncu&repo=Company-HR-Management-System&bg_color=0d1117&title_color=5EEAD4&text_color=c9d1d9&icon_color=5EEAD4&border_color=30363d" alt="HR Database"></a>
+</p>
+
+📺 [Live demo of the Restaurant Dashboard](https://restoran-final-demo.vercel.app)
 
 ## 📫 Let's connect
 
 Open to opportunities and happy to chat about code, projects, or tech communities. Reach me on [LinkedIn](https://www.linkedin.com/in/yusufkoyuncueng/) or at yusufkync0@gmail.com. ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer">
