@@ -54,7 +54,7 @@ A full-stack **event & ticket sales platform** built during my internship: organ
   <a href="https://github.com/yusuf-koyuncu/Company-HR-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuf-koyuncu&repo=Company-HR-Management-System&bg_color=0d1117&title_color=5EEAD4&text_color=c9d1d9&icon_color=5EEAD4&border_color=30363d" alt="HR Database"></a>
 </p>
 
-📺 [Live demo of the Restaurant Dashboard](https://restoran-final-demo.vercel.app)
+📺 [Live demo of the Restaurant Dashboard](https://gusto-restaurant-dashboard.vercel.app)
 
 ## 📫 Let's connect
 
