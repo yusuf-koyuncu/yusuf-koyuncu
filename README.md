@@ -20,7 +20,6 @@
 - 🎓 Computer Engineering at **Bandırma Onyedi Eylül University** (English-medium, expected 2027)
 - 🏢 Completed a **40-working-day software internship** at İthinka İnovasyon Yazılım
 - 🌱 Coordinator of **BTT**, a student tech community of 1,000+ members
-- 🏕 Attended the **Kamp+ Bilişim Kampı** by Turkcell and the Ministry of Youth and Sports
 - 🔎 Looking for a **long-term volunteer internship** in software development
 
 ## 🛠 Tech stack
